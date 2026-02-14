@@ -127,6 +127,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][code]|[StringSifter - A machine learning tool that ranks strings based on their relevance for malware analysis](https://github.com/fireeye/stringsifter)|
 |![][code]|[CAI - Cybersecurity AI framework for autonomous security testing](https://github.com/aliasrobotics/CAI)|
 |![][code]|[dstack - Confidential AI framework for secure ML/LLM deployment with hardware-enforced isolation and data privacy](https://github.com/Dstack-TEE/dstack)|
+|![][code]|[ClawMoat - Open-source runtime security scanner for AI agents. Detects prompt injection, jailbreak, PII leakage, memory poisoning, and tool misuse](https://github.com/darfaz/clawmoat)|
 
 ## [▲](#keywords) Links
 |Type|Title|
