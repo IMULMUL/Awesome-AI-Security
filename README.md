@@ -92,6 +92,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 ## [▲](#keywords) Misc
 |Type|Title|
 |---|:---|
+|![][research]| [Breaking Agent Backbones: Evaluating the Security of Backbone LLMs in AI Agents](https://arxiv.org/abs/2510.22620)|
 |![][research] |[Can Machine Learning Be Secure?](https://people.eecs.berkeley.edu/~adj/publications/paper-files/asiaccs06.pdf)|
 |![][research]|[On The Integrity Of Deep Learning Systems In Adversarial Settings](https://etda.libraries.psu.edu/catalog/28680)|
 |![][research]|[Stealing Machine Learning Models via Prediction APIs](https://arxiv.org/abs/1609.02943)|
